@@ -1,6 +1,6 @@
 
 
-var nombre = "Gian Franco Crova";
+var nombre = "Carlos";
 
 console.log(nombre);
 
@@ -24,5 +24,6 @@ const libroFavorito = {
     fecha: 2011,
     url : "https://es.wikipedia.org/wiki/Steve_Jobs_(libro)"
 }
+
 
 console.log(libroFavorito);
